@@ -1,0 +1,6 @@
+var env = {
+    awsAccessKey: 'VALUE',
+    awsSecretAccessKey: "VALUE",
+    region: 'VALUE',
+    bucket: 'VALUE'
+};

@@ -1,0 +1,15 @@
+{
+  "name": "jstos3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "upload.js",
+  "dependencies": {
+    "aws-sdk": "^2.138.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Andreas Beasley",
+  "license": "MIT"
+}
