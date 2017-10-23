@@ -4,4 +4,4 @@
 `mv config.js.dist config.js` <br>
 `npm install`
 
-View the `index.html` for an example form usage. You can upload a single file or multiple. 
+Fill in your config with the proper information. View the `index.html` for an example form usage. You can upload a single file or multiple. 
